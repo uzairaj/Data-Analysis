@@ -1,0 +1,26 @@
+{
+  "A2R5H9":
+  {
+    "title": "CTO",
+    "monthly_salary": "$4000",
+    "team": "Leadership"
+  },
+  "H8K0L6":
+  {
+    "title": "CCO",
+    "monthly_salary": "$3500",
+    "team": "Leadership"
+  },
+  "G4R7V0":
+  {
+    "title": "Business Analyst",
+    "monthly_salary": "$2000",
+    "team": "Sales"
+  },
+  "M1Z7U9":
+  {
+    "title": "Senior Analyst",
+    "monthly_salary": "$2500",
+    "team": "Marketing"
+  }
+}
